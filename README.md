@@ -35,3 +35,13 @@ Hands-on networking labs focused on real-world enterprise environments using Cis
 ## About This Project
 
 This project demonstrates practical experience in networking and security concepts, including real-world configurations of switches, routers, and network protocols.
+
+
+
+## Project Structure
+
+- lab1-switching → Layer 2 networking fundamentals
+- lab2-l3-switching → Inter-VLAN routing and Layer 3 switching
+- lab3-routing → Static routing and network connectivity
+- lab4-bgp → Dynamic routing using BGP
+- lab5-hackathon → Network design and high availability concepts
